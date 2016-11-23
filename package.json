@@ -23,7 +23,7 @@
     "bson": "~0.5.4",
     "hooks-fixed": "1.2.0",
     "kareem": "1.1.3",
-    "mongodb": "2.2.11",
+    "mongodb": "eflexsystems/node-mongodb-native#96c02d355cba5aea43f7da1f4b741d901fb1e620",
     "mpath": "0.2.1",
     "mpromise": "0.5.5",
     "mquery": "2.0.0",
